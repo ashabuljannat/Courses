@@ -1,0 +1,13 @@
+.header{
+  display: flex;
+  margin-left:20px ;
+  
+} 
+ .cart{
+  left: 60%;
+  position:fixed;
+}
+.main{
+  border-right: 1px solid gray;
+}
+
